@@ -1,0 +1,2 @@
+Id,UserId,Title,EmployeeType,BaseSalary,OvertimeHours,OvertimeRate,BonusAmount,TaxRate,InsuranceDeduction,OtherDeductions,CalculationDate,Notes,CreatedAt,UpdatedAt
+84bc17e3-b204-4758-8c02-03d8db68e960,8682d7aa-f694-40d6-bd92-5cae22656425,"ceng",PartTime,22000,5,3,0,15,1,1,14.05.2025 00:00:00,"online iş",3.05.2025 00:14:56,3.05.2025 00:14:56

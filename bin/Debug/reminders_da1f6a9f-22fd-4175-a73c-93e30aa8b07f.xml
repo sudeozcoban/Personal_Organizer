@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfReminderItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ReminderItem>
+    <Type>Toplantı</Type>
+    <Date>3.05.2025</Date>
+    <Time>23:15</Time>
+    <Summary>ddssc</Summary>
+    <Description>vdv</Description>
+  </ReminderItem>
+</ArrayOfReminderItem>
